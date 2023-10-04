@@ -1,0 +1,20 @@
+SQL = STRUCTURED QUERY LANGUAJE
+PL 	= PROCEDURED LANGUAJE
+
+RDBMS = Relational Database Management System
+
+DML = DATA MANIPULATION LANGUAJE -> SELECT, COUNT, WHERE
+DDL	= DATA DEFINITION LANGUAJE -> ALTER TABLE, DROP TABLE, CREATE TABLE
+DCL = DATA CONTROL LANGUAJE -> GRANT, USER 
+
+DER = DIAGRAMA ENTIDAD RELACION
+CARDINALIDAD = ES LA CANTIDAD DE RELACIONES QUE PUEDE TENER UNA ENTIDAD CON OTRA
+
+CONSTRAINTS
+primary key = clave primaria unica que identifica 
+de manera inequivoca un registro de una tabla
+foraign key = clave primaria de una tabla relacionada, 
+almacenada en la que se contiene dicha relacion 
+
+SOFT DELETE (BORRADO LOGICO) = Generalmente es una columna con dato booleano que nos indica
+que el registro no esta activo o se encuentra "eliminado"
