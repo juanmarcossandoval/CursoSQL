@@ -10,7 +10,7 @@ DCL = DATA CONTROL LANGUAJE -> GRANT, USER
 DER = DIAGRAMA ENTIDAD RELACION
 CARDINALIDAD = ES LA CANTIDAD DE RELACIONES QUE PUEDE TENER UNA ENTIDAD CON OTRA
 
-CONSTRAINTS
+CONSTRAINTS = restricciones
 primary key = clave primaria unica que identifica 
 de manera inequivoca un registro de una tabla
 foraign key = clave primaria de una tabla relacionada, 
